@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  14 SEP 2020 12:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  20 DEC 2019 15:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Gaynor_Resume.tex
-(./Gaynor_Resume.tex
+**Gaynor_Publications.tex
+(./Gaynor_Publications.tex
 LaTeX2e <2018-04-01> patch level 2
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
@@ -177,8 +177,8 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enit@inbox=\box34
 \enitdp@description=\count110
 )
-(./Gaynor_Resume.aux)
-\openout1 = `Gaynor_Resume.aux'.
+(./Gaynor_Publications.aux)
+\openout1 = `Gaynor_Publications.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
@@ -241,202 +241,50 @@ LaTeX Font Info:    ... okay on input line 14.
 \makeMPintoPDFobject=\count116
 \everyMPtoPDFconversion=\toks24
 )
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 23.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 23.
-
-Underfull \hbox (badness 10000) in paragraph at lines 33--34
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--43
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--49
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--55
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 62--63
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 67--68
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 69--72
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--76
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--80
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--84
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 85--88
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--92
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 93--96
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
 
  []
 
 [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 97--100
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 104--105
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 106--107
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 112--113
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 119--120
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 123--124
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 129--130
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 134--136
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 157--158
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 159--161
-
- []
-
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 174--175
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 179--180
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 189--190
-
- []
-
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 192--194
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 194--196
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 200--201
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 234--235
-
- []
-
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 281--283
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 300--302
-
- []
-
-[5]
-Underfull \hbox (badness 10000) in paragraph at lines 314--315
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 334--338
-
- []
-
-[6] (./Gaynor_Resume.aux) ) 
+[2] (./Gaynor_Publications.aux) ) 
 Here is how much of TeX's memory you used:
- 2919 strings out of 492649
- 39463 string characters out of 6129622
- 128209 words of memory out of 5000000
- 6802 multiletter control sequences out of 15000+600000
- 4601 words of font info for 17 fonts, out of 8000000 for 9000
+ 2916 strings out of 492649
+ 39472 string characters out of 6129622
+ 126209 words of memory out of 5000000
+ 6799 multiletter control sequences out of 15000+600000
+ 4908 words of font info for 18 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,13n,37p,1208b,297s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2018/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmr7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmsy5.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmti10.pfb>
-Output written on Gaynor_Resume.pdf (6 pages, 104828 bytes).
+ 30i,5n,37p,1216b,246s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2018/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmti10.pfb>
+Output written on Gaynor_Publications.pdf (2 pages, 67855 bytes).
 PDF statistics:
- 47 PDF objects out of 1000 (max. 8388607)
- 32 compressed objects within 1 object stream
+ 27 PDF objects out of 1000 (max. 8388607)
+ 18 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
